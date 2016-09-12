@@ -1,9 +1,9 @@
 # Site settings
-title: iDevelopers
-email: idevelopers1988@gmail.com
-url: https://idevelopers.in
+title: Freelancer
+email: your-email@domain.com
+url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "iOS development"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -20,7 +20,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: 
+disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -31,23 +31,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Manish Pathak
-  location: India
+  copyright: Dr. Henry Jekyll
+  location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
   - title: stack-overflow
-    url: 
+    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
-    url: 
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: 
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
